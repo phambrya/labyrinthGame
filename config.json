@@ -1,0 +1,36 @@
+{
+  "StartButton" : "false",
+  "ResetButton" : "true",
+  "NextButton" : "true",
+  "InfoArea" : "true",
+  "ImagePath" : "images/",
+  "SoundPath" : "audio/",
+  "Images": {
+    "TILE" : "tile.png",
+    "WALL" : "wall.png",
+    "HERO1" : "rabbit.png",
+    "HERO2" : "pig.png",
+    "BASE1" : "start1.png",
+    "BASE2" : "start2.png",
+    "ANTAGONIST" : "snake.png",
+    "GOAL" : "panda.png",
+    "USER_DEF1" : "panda.png",
+    "USER_DEF2" : "panda.png",
+    "USER_DEF3" : "panda.png",
+    "USER_DEF4" : "panda.png",
+    "USER_DEF5" : "panda.png"
+  },
+  "Sounds": {
+    "DEFEAT" : "defeat.mp3",
+    "FOE_ATTACKS" : "dragonAttacks.mp3",
+    "FOE_MOVES" : "dragonFlying.mp3",
+    "ILLEGAL_MOVE" : "illegalMove.mp3",
+    "ON" : "dragonWakes.mp3",
+    "GOAL" : "treasure.mp3",
+    "WALL" : "wall.mp3",
+    "PLAYER_MOVE" : "warriorMoves.mp3",
+    "PLAYER_ONE" : "warriorOne.mp3",
+    "PLAYER_TWO" : "warriorTwo.mp3",
+    "WINNER" : "winner.mp3"
+  }
+}
