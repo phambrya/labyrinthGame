@@ -1,8 +1,8 @@
-# labyrinthGame
+# mazeGame
 
 ## Description 
 
-This is an implementation of Labyrinth Game.
+This is an implementation of Maze Game.
 Can be played with 1-2 players.
 
 The objective is to find the treasure, though there are some obstacles in the players way:
